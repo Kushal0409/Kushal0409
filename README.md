@@ -1,5 +1,5 @@
-                                                       ### Hi there 👋, I'm Kushal
-                          I am a student at MIT-WPU, Pune, Maharashtra and currently doing my first year in
+### Hi there 👋, I'm Kushal.
+I am a student at MIT-WPU, Pune, Maharashtra and currently doing my first year in
 Computer Science Engineering.
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal0409.461898592&left_color=green&right_color=red) -->
 - 🔭 I’m currently working on Tensorflow
