@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Kushal
+I am a student at MIT-WPU, Pune, Maharashtra and currently doing my first year in
+Computer Science Engineering.
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal0409.461898592&left_color=green&right_color=red) -->
+- 🔭 I’m currently working on Tensorflow
+- 🌱 I’m currently learning Machine Leearning
+- 💬 Ask me about Python, MySql and C++.
+- 📫 How to reach me: kushalshah0403@gmail.com
 
-<!--
-**Kushal0409/Kushal0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=Kushal0409&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
-Here are some ideas to get you started:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kushal0409&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kushal0409)]
