@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Kushal.
 ### I am a student at MIT-WPU, Pune, Maharashtra and currently doing my first year in Computer Science Engineering.
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal0409.461898592&left_color=green&right_color=red) -->
-- 🔭 I’m currently working on Tensorflow
-- 🌱 I’m currently learning Machine Leearning
-- 💬 Ask me about Python, MySql and C++.
 - 📫 How to reach me: kushalshah0403@gmail.com
+- LinkedIn :https://www.linkedin.com/in/kushal-shah-776212224/
 
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=Kushal0409&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
