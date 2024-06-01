@@ -3,6 +3,8 @@
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kushal0409.461898592&left_color=green&right_color=red) -->
 - 📫 How to reach me: kushalshah0403@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kushal-shah-776212224/
+  
+![](https://komarev.com/ghpvc/?username=Kushal0409&color=green)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
 
