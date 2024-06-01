@@ -6,8 +6,6 @@
   
 ![](https://komarev.com/ghpvc/?username=Kushal0409&color=green)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
-
 ![Kushal's github stats](https://github-readme-stats.vercel.app/api?username=Kushal0409&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kushal0409&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
